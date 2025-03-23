@@ -11,11 +11,11 @@ int main( void )
 
 { 
 
-   int integer1 /* first number to be input by user  */ 
+   int integer1  ; /* first number to be input by user  */ 
 
-   int integer2 /* second number to be input by user */ 
+   int integer2  ; /* second number to be input by user */ 
 
-   int x;      /* variable in which sum will be stored */  
+   int sum; //was x     /* variable in which sum will be stored */  
 
  
 
