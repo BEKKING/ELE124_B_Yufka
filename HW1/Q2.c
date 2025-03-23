@@ -2,9 +2,10 @@
 
 #include <stdio.h> 
 
- 
-
-/* function main begins program execution */ 
+//-------------------------------------------------------------------------------------------------------------
+//  ";" Are missing at the end of line 13 and 15
+//  variable name "x" should be "sum" to code to be compiled
+//------------------------------------------------------------------------------------------------------------
 
 int main( void ) 
 
